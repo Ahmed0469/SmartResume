@@ -1,0 +1,7 @@
+PyPDF2
+streamlit
+docx
+re
+nltk
+numpy
+fuzzywuzzy
